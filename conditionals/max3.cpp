@@ -17,9 +17,11 @@ int main(){
    else{
     if (n2>n3)
     {
-        /* code */
+        cout<<n2<<" is the largest number all three"<<endl;
     }
-    
+    else{
+        cout<<n3<<" is the largest number among all three"<<endl;
+    }
    }
     return 0;
 }
