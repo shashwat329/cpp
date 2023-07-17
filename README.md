@@ -8,3 +8,7 @@ day 04
 learnt about loops and pratice some question on it
 day 05 
 pointers and array
+day 06
+structure
+day 07 
+contine strcture and union
