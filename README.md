@@ -12,3 +12,8 @@ day 06
 structure
 day 07 
 contine strcture and union
+day 08 
+updated readme.
+day 09 
+function and recursion
+
