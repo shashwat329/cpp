@@ -42,7 +42,7 @@ int main(){
     cout<<"your balance is: "<<accounts[token].balanceupdate(action)<<endl;
    }
    else{
-    cout<<"enter the amount: ";
+    cout<<"enter the amount: "; 
     cin>>amount;
     cout<<"your updated balance is "<<accounts[token].balanceupdate(action,amount)<<endl;
    }
