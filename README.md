@@ -16,4 +16,9 @@ day 08
 updated readme.
 day 09 
 function and recursion
-
+day 10(after a long break started once again)
+1)learn about classes
+2) private and public member
+3)bankaccount question
+4)static data member
+5)objects as arguments
