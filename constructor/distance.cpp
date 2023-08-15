@@ -14,6 +14,7 @@ public:
         cout << "(" << a << "," << b << ")";
     }
 };
+// this is a constructor and defenation of constructor is outside the class..
 point ::point(int x, int y)
 {
     a = x;
