@@ -24,3 +24,24 @@ day 10(after a long break started once again)
 5)objects as arguments
 day 11
 learn about friends
+day 12
+constructors and dynamic iniliation of constructors
+day 13 
+copy constructors and desrcutors
+day 14
+concept of inheritance in cpp and form of inheritance
+single and multiple inheritance
+day 16 
+more in inheritances
+multilevel and hybrid 
+day 17
+amiguity anf virtual base class
+day 18
+constructors in derived class and advance topic in pointers and this keyword
+day 19
+polymorphism and itd type
+day 20]=
+runtime polymorphism error and virtual function 
+day 21
+abstract class and do thing fuction(virtual function)
+file and templates in c++
